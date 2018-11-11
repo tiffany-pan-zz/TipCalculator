@@ -13,6 +13,7 @@
 		74E902AE21979D14006B4CB2 /* TipCalculator.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 74E902AC21979D14006B4CB2 /* TipCalculator.xcdatamodeld */; };
 		74E902B021979D16006B4CB2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 74E902AF21979D16006B4CB2 /* Assets.xcassets */; };
 		74E902B321979D16006B4CB2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 74E902B121979D16006B4CB2 /* LaunchScreen.storyboard */; };
+		74E902BB2197A576006B4CB2 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74E902BA2197A576006B4CB2 /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		74E902AF21979D16006B4CB2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		74E902B221979D16006B4CB2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		74E902B421979D16006B4CB2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		74E902BA2197A576006B4CB2 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				74E902B121979D16006B4CB2 /* LaunchScreen.storyboard */,
 				74E902B421979D16006B4CB2 /* Info.plist */,
 				74E902AC21979D14006B4CB2 /* TipCalculator.xcdatamodeld */,
+				74E902BA2197A576006B4CB2 /* SettingsViewController.swift */,
 			);
 			path = TipCalculator;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				74E902AE21979D14006B4CB2 /* TipCalculator.xcdatamodeld in Sources */,
 				74E902A821979D14006B4CB2 /* ViewController.swift in Sources */,
 				74E902A621979D14006B4CB2 /* AppDelegate.swift in Sources */,
+				74E902BB2197A576006B4CB2 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
